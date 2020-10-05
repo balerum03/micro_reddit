@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple example steps.
 - Press the "Code" button and get the repo link.
 - Clone it using git.
 
-## How to run tests
+## How To Run This Application In Console
 
 - In the terminal from the project repository, type `rails console` and run all test units as displayed in the the Odin projects ``https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails``
 
