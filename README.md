@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## How to run tests
 
-- In the terminal from the project repository, type `rails console` and run all test units as displayed in the the Ordin projects ``https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails``
+- In the terminal from the project repository, type `rails console` and run all test units as displayed in the the Odin projects ``https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails``
 
 
 # Authors
